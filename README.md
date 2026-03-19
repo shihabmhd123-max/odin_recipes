@@ -1,1 +1,1 @@
-# odin_recipes
+This project is to create a site that displays different types of food and it's recipes. In this project i will use images hyperlinks and other htmls tags that are necessary to build this project. This will also showcase how too use github for this project like git clone got sdd git commit git push git log git status etc.
